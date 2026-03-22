@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Pinned dependency versions for reproducibility
 - Reviewed codebase, identified areas for improvement
+
+## 2026-03-23
+- Documented config options
+- Checked for memory leaks in long-running path
